@@ -53,7 +53,6 @@
 }
 .keiyaku > ol > li {
   counter-increment: keiyaku-ordered-list;
-  text-indent: -2.5em;
 }
 .keiyaku > ol > li::before {
   content: "\FF08" counter(keiyaku-ordered-list) "\FF09";
