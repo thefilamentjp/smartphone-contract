@@ -56,10 +56,10 @@
   text-indent: -2.5em;
 }
 
-.keiyaku > ol li ol {
+.keiyaku > ol li ul {
   list-style: none;
   counter-increment: keiyaku-ordered-list;
-  text-indent: 2.5 em;
+  text-indent: 2.5em;
 }
 
 
