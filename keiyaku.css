@@ -55,9 +55,20 @@
   counter-increment: keiyaku-ordered-list;
   text-indent: -2.5em;
 }
+
+.keiyaku > ol > li > ul {
+  padding: 0 0 0 5em;
+}
+
+.keiyaku > ol > li > ul > li {
+  counter-increment: keiyaku-ordered-list;
+  text-indent: -5em;
+}
+
 .keiyaku > ol > li::before {
   content: "\FF08" counter(keiyaku-ordered-list) "\FF09";
 }
+
 .keiyaku > hr {
   border: none;
   border-top: 1px solid black;
