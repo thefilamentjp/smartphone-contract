@@ -6,6 +6,9 @@
 そのまま使うのではなく、ぜひ条文を読み直して、お子さんの性格や年齢、ご家庭の事情などに合わせてカスタマイズされてください。  
 そしてお子さんの現在や未来、親と子の関係について考える機会にされてみてはいかがでしょうか。
 
+HTMLファイルとMarkdownファイルの2種類を用意しています。
+[Keiyaku CSS](https://cognitom.github.io/keiyaku-css/)を一部改変して使用しています。
+
 ## Author
 Shin Murakami  
 この 文書 は [クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス](https://creativecommons.org/licenses/by-nc/4.0/)の下に提供されています。
