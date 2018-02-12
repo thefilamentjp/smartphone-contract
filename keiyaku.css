@@ -55,7 +55,7 @@
   counter-increment: keiyaku-ordered-list;
   text-indent: -2.5em;
 }
-.keiyaku > ol > li > ul {
+.keiyaku > ol li ul {
   list-style: none;
   padding: 0 0 0 2.5em;
 }
