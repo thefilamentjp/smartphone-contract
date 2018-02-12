@@ -59,6 +59,7 @@
 .keiyaku > ol > li > ul {
   list-style-type: square;
   counter-increment: keiyaku-ordered-list;
+  text-indent: 0em;
 }
 
 
