@@ -47,9 +47,9 @@
   padding: 0 0 0 2.5em;
 }
 .keiyaku > ol {
-  list-style: none;
+  list-style: square;
   counter-reset: keiyaku-ordered-list;
-  padding: 0 0 0 2.5em;
+  padding: 0 0 0 1em;
 }
 .keiyaku > ol > li {
   counter-increment: keiyaku-ordered-list;
