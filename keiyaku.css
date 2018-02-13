@@ -49,24 +49,15 @@
 .keiyaku > ol {
   list-style: none;
   counter-reset: keiyaku-ordered-list;
-  padding: 0 0 0 1em;
+  padding: 0 0 0 2.5em;
 }
 .keiyaku > ol > li {
   counter-increment: keiyaku-ordered-list;
   text-indent: -2.5em;
 }
-
-.keiyaku > ol > li > ul {
-  list-style-type: circle;
-  counter-increment: keiyaku-ordered-list;
-  text-indent: 0em;
-}
-
-
 .keiyaku > ol > li::before {
   content: "\FF08" counter(keiyaku-ordered-list) "\FF09";
 }
-
 .keiyaku > hr {
   border: none;
   border-top: 1px solid black;
