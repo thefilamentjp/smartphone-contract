@@ -7,7 +7,7 @@
 そしてお子さんの現在や未来、親と子の関係について考える機会にされてみてはいかがでしょうか。
 
 [HTMLファイル](https://thefilamentjp.github.io/smartphone-contract/keiyaku.html)とMarkdownファイルの2種類を用意しています。  
-[Keiyaku CSS](https://cognitom.github.io/keiyaku-css/)を一部改変して使用しています。
+[Keiyaku CSS](https://cognitom.github.io/keiyaku-css/)を使わせていただいています。こちらのCSSの作者は、CoderDojo下北沢の Tsutomu Kawamuraさんです。
 
 ## Author
 Shin Murakami  
